@@ -1,0 +1,23 @@
+I"�<h1 id="stream-on-the-beach">STREAM On The Beach</h1>
+
+<p><img src="./resources/stream.JPG" alt="image" /></p>
+
+<h2 id="présentation">Présentation</h2>
+
+<p><strong>…………………………………………………………………………………………………………………………………………texte……………………………………………………………………………………………………………………………………………..</strong></p>
+
+<p>!::<a href="/resources/videotest.MP4">titre-video</a></p>
+
+<h2 id="sommaire">Sommaire</h2>
+
+<ol>
+  <li><a href="./inventaire.md">Inventaire</a></li>
+  <li><a href="./Font_vert.md">Fondvert</a></li>
+  <li><a href="./Tutoriel_micro.md">Micro</a></li>
+  <li><a href="./Premierepro.md">Premierepro</a></li>
+  <li><a href="./Twitch_Youtube.md">Twitch_Youtube</a></li>
+  <li><a href="./OBS.md">OBS</a></li>
+  <li><a href="./Gestion_lumières.md">Gestion_lumières</a></li>
+</ol>
+
+:ET

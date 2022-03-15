@@ -1,0 +1,61 @@
+I"�<h1 id="stream-on-the-beach">STREAM On The Beach</h1>
+
+<h2 id="les-plateformes-youtube-et-twitch">Les plateformes Youtube et Twitch</h2>
+
+<h3 id="youtube">Youtube</h3>
+
+<p>Monétisation :</p>
+
+<p>Pour monétiser ses vidéos, il faut être membre du Programme Partenaire Youtube, pour cela :
+Respecter les règles de monétisation de YT
+Ne pas faire l’objet d’avertissement pour non-respect du règlement de la communauté
+Cumuler plus de 4000 heures de visionnage valides sur des vidéos publiques les 12 derniers mois
+Compter plus de 1000 abonnés
+Posséder un compte AdSense associé</p>
+
+<p>Diffuser en direct : je sais pas encore</p>
+
+<h3 id="twitch">Twitch</h3>
+
+<p>Je souhaite utiliser le compte Twitch Stream On The Beach
+L’OBS de l’ordinateur de la salle est déjà lié à un compte Twitch Stream On The Beach. Il suffit d’ouvrir l’OBS et de cliquer sur “Commencer le stream” pour lancer un live sur la chaîne Twitch.
+Un live fonctionne de la même manière qu’un enregistrement. Il est possible de changer de scène, d’effectuer des transitions, d’utiliser le mode Studio depuis l’OBS : les changements seront directement appliqués sur le live.</p>
+
+<p>Note : il y a un décalage de 9 secondes environ entre la réalité et le live.
+Note 2 : il n’est pas nécessaire d’ouvrir Twitch sur navigateur lorsqu’on lance un live. Attention ! Le compte est lié, si vous appuyer sur le bouton ‘Commencer le streaming”, un live sera lancé ! Pour éviter les erreurs, une boîte de dialogue demande confirmation avant tout lancement d’un stream.</p>
+
+<p>Je souhaite créer ma propre chaîne Twitch et la lier à l’ordinateur de la salle de Stream</p>
+
+<p>Pour cela il suffit de suivre quelques étapes :</p>
+
+<p>1 ) Création de compte Twitch
+Rendez-vous sur la page d’accueil de Twitch et créez-vous un compte. Vous aurez à choisir votre identifiant et votre mot de passe.
+Note : vous pouvez modifier votre identifiant après la création de votre compte, mais attention, une fois modifié vous ne pourrez plus le changer pendant 2 mois !</p>
+
+<p>2 ) Configuration de chaîne
+Il est maintenant possible de configurer tous les paramètres de votre chaîne, comme votre image de profil, votre bio etc…</p>
+
+<p>Cliquez sur votre image de profil en haut à droite &gt;</p>
+
+<p><img src="/resources/twitch1.png" alt="image" /></p>
+
+<p>Le menu suivant s’ouvre :</p>
+
+<p><img src="/resources/twitch2.png" alt="image" /></p>
+
+<p>L’onglet “Chaîne” vous permet de visualiser votre chaîne comme vos abonnés la voit
+L’onglet “Studio Vidéo” va vous permettre de gérer tous les aspects de votre chaîne !</p>
+
+<p>Depuis le Studio Vidéo, un menu s’affiche sur la droite, vous pouvez découvrir tout ce qu’il est possible de réaliser avec Twitch.</p>
+
+<p>Un point important, dans l’onglet Paramètres &gt; Flux. Il est possible de récupérer la “Clé de streaming principale” C’est cette clé qui vous permettra de lier votre compte Twitch à n’importe quel outil de diffusion (ici OBS, mais il en existe d’autres !)</p>
+
+<p>3 ) Lier le compte Twitch et l’OBS
+Sur OBS, ouvrez Paramètres &gt; Flux(stream) &gt; Service : Twitch
+A partir de là, deux options :
+Lier un compte : il suffit de se connecter avec ses identifiants Twitch
+Utiliser la clé de stream : copiez/collez la clé de stream donnée par Twitch depuis le Studio Vidéo</p>
+
+<p>4 ) Lancez le live !
+Depuis OBS, pour lancer un live il suffit alors de cliquer sur “Lancer le stream”</p>
+:ET

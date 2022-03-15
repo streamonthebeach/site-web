@@ -1,0 +1,172 @@
+I"�)<h1 id="stream-on-the-beach">STREAM On The Beach</h1>
+
+<h2 id="première-pro">Première Pro</h2>
+
+<h3 id="i-les-bases-de-première-pro">I. Les bases de Première Pro</h3>
+
+<h4 id="1--ouverture-de-première-pro">1)- Ouverture de Première Pro</h4>
+
+<p>Étape 1 : Pour débuter l’utilisation de Première Pro, cliquer sur : Nouveau projet.</p>
+
+<p>Etape 2 : Choix du format de la vidéo</p>
+
+<p>Il faut choisir le format de votre vidéo si cette fenêtre apparaît.</p>
+
+<p>Si vous souhaitez faire une vidéo de taille 16:9, comme c’est par exemple le cas des vidéos sur Youtube, il faut choisir 1920 x 1080 px. Vous pouvez aussi choisir du 3840 x 2160, ce qui correspond à de la 4K.</p>
+
+<p>Étape 3 : Il faut d’abord nommer le projet et ensuite sélectionner l’emplacement du projet. Les autres paramètres peuvent être laissés par défaut.</p>
+
+<h4 id="2--interface-de-montage">2)- Interface de montage</h4>
+
+<p>Voici l’interface de montage :</p>
+
+<p>(photo interface)</p>
+
+<p>C’est la première interface que vous devez voir après les étapes de la partie 1. Si ce n’est pas le cas, il suffit de cliquer sur fenêtre puis Espaces de travail et de sélectionner Montage ou Montage CS5.5.</p>
+
+<p>Vous pouvez alors apercevoir plusieurs panneaux :
+le panneau projet : il contient les médias importés ainsi que les séquences créées.
+le panneau explorateur de média : il permet de parcourir, de prévisualiser et d’importer différents médias.
+le panneau montage : il permet de faire toute la partie montage.
+le panneau source : il permet de visualiser la vidéo source.
+le panneau programme : il permet de visualiser la séquence créée.</p>
+
+<h4 id="3--importer-des-éléments-sur-première-pro">3)- Importer des éléments sur Première Pro</h4>
+
+<p>Sur Première Pro vous pouvez importer divers fichiers comme des photos, des vidéos ou encore des pistes audio. Il y a plusieurs manières d’importer des fichiers sur Première Pro.</p>
+
+<p>Une des manières est de placer votre souris dans le panneau projet. Il faut ensuite effectuer un clique droit et sélectionner importer. Il suffit alors de choisir vos fichiers sur votre ordinateur.</p>
+
+<p>Une seconde manière peut-être simplement de faire glisser vos fichiers dans le panneau projet de première pro.</p>
+
+<h4 id="4--exportation-de-la-vidéo-terminée">4)- Exportation de la vidéo terminée</h4>
+
+<p>Pour exporter une vidéo, il suffit de cliquer sur fichier et exporter, une nouvelle fenêtre va alors s’ouvrir.
+Il faut d’abord identifier où la vidéo va être publiée.</p>
+
+<p>Sur le web (youtube, facebook, instagram, …)</p>
+
+<p>Le format : H264 (meilleur qualité pour une taille acceptable).</p>
+
+<p>Préconfiguration : Il y a des préconfigurations faites pour les réseaux sociaux. Pour chaque réseau, il faut choisir la meilleure qualité. Par exemple, pour Youtube il faut choisir la préconfiguration YouTube 2160p 4K Ultra HD.
+Il est possible de choisir de ne pas importer la vidéo ou l’audio, à ce moment-là la préconfiguration passe en mode personnalisé (il est préférable d’exporter les 2 tout de même).</p>
+
+<h3 id="ii-les-bases-du-montages">II. Les bases du montages</h3>
+
+<p>Comme dit précédemment, les deux panneaux qui vont être majoritairement utilisés sont les panneaux montage et programme.</p>
+
+<h4 id="1--importer-les-fichiers-dans-le-panneau-montage">1)- Importer les fichiers dans le panneau montage</h4>
+
+<p>Pour importer un fichier, il suffit de le faire glisser du panneau projet vers le panneau montage.
+Si le fichier importé une vidéo, il y aura deux barres : une pour la vidéo sans le son et une pour l’audio. Si le fichier est une image, il n’y aura qu’une seule barre.</p>
+
+<p>Il est ensuite possible d’importer d’autres fichiers qu’il suffit de faire glisser à la suite des précédents.</p>
+
+<h4 id="2--visualisation-de-la-séquence-dans-le-panneau-programme">2)- Visualisation de la séquence dans le panneau programme</h4>
+
+<p>Pour bien visualiser la vidéo importée dans le panneau montage, il est important de bien réaliser les réglages dans le panneau programme.
+Pour que la vidéo à visualiser prenne exactement la taille du panneau programme, il suffit de choisir adapter :
+(photo adapter)</p>
+
+<p>Sinon, il est toujours possible d’adapter la taille en choisissant différents pourcentages.</p>
+
+<p>Il se peut que la vidéo soit lue plus lentement si elle est trop lourde. Il est alors possible pour éviter cela de rendre la vidéo au format ¼ par exemple plutôt qu’au format intégral. La qualité de la vidéo visionnée sera moins bonne mais c’est simplement pour faciliter la lecture tout au long du montage et ce ne sera pas le cas pour la vidéo finale une fois qu’elle est exportée.</p>
+
+<h4 id="3--outils-de-montage">3)- Outils de montage</h4>
+
+<p>Dans le panneau montage, il y a une barre d’outil :</p>
+
+<p>(photo barre outil)</p>
+
+<p>Le premier outil est la souris.</p>
+
+<p>Le second outil sur la barre permet de sélectionner tous les éléments en amont de l’élément sélectionné et de les déplacer tous ensemble.</p>
+
+<p>Le troisième outil permet de sélectionner tous les éléments en aval de l’élément sélectionné et de les déplacer tous ensemble.</p>
+
+<p>Il est possible que vous n’ayez pas choisi de prendre toute la vidéo mais seulement une séquence que vous avez placée dans le panneau montage. Si finalement vous décidez que la séquence choisie est trop courte et que vous souhaitez la rallonger, cela est possible grâce au quatrième outil : il vous permet de rallonger une séquence et décale automatiquement les séquences se trouvant en amont de la vidéo sélectionnée.</p>
+
+<p>Le cinquième outil est similaire à l’outil précédent et permet aussi de rallonger une séquence. Il s’utilise lorsque deux vidéos sont juxtaposées dans la partie montage et que rallonger une vidéo reviendrait à diminuer le temps d’une autre vidéo. L’outil diminue alors le temps de l’autre vidéo automatiquement.</p>
+
+<p>Le sixième outil permet de ralentir ou d’accélérer la vitesse de lecture d’une vidéo. Ainsi, le temps que fait la vidéo est modifié mais le contenu reste le même, seul la vitesse de lecture change.</p>
+
+<p>Le septième outil est l’outil cutter. Il permet de couper une séquence.</p>
+
+<p>Le huitième outil permet de déplacer un élément sans modifier le point d’entrée et de sortie.</p>
+
+<p>Le neuvième outil est l’outil déplacer dessus. Lorsque vous avez plusieurs séquences qui sont juxtaposées, il vous permet de déplacer une de vos séquences ou vous le souhaitez et modifie les autres séquences afin qu’elles restent juxtaposées.</p>
+
+<p>(manque les 3 derniers outils + nom des outils)</p>
+
+<p>Le dernier outil de la barre est la loupe : permet de zoomer si cela est nécessaire.</p>
+
+<p>Il y a ensuite d’autres outils :</p>
+
+<p>(photo)</p>
+
+<p>De plus, les cadenas à côté des séquences permettent de verrouiller une séquence et donc il est impossible de la supprimer par exemple.</p>
+
+<p>L’outil activer/ déactiver le vérouillage la synchronisation permet d’insérer un fichier dans la partie montage sans décaler les éléments pour lesquels vous aurez sélectionné cet outil.</p>
+
+<p>L’outil oeil permet de masquer ou non les séquences se trouvant sur la ligne.</p>
+
+<p>(photo)</p>
+
+<p>Pour l’audio, l’outil M permet de rendre muet ou non une piste audio.</p>
+
+<p>L’outil S permet d’isoler une piste audio : seulement cette piste sera lue.</p>
+
+<p>Il y aussi ces outils là :</p>
+
+<p>(photo)</p>
+
+<p>Il y a l’outil magnétique, ce qui permet que dès que vous déplacer des séquences, elles se juxtaposent directement aux autres.</p>
+
+<p>Il y a l’outil sélections liées qui sélectionne automatiquement les fichiers liés (souvent la séquence et l’audio). Pour rompre le lien entre deux fichiers, il suffit de faire un clique droit et de choisir rompre le lien.</p>
+
+<p>L’outil ajouter une marque permet de mettre des marqueurs si cela est nécessaire.</p>
+
+<p>L’outil symbolisé par la clé à outil est les paramètres avancés.</p>
+
+<h4 id="4--astuce-de-montage">4)- Astuce de montage</h4>
+
+<p>Pour dupliquer une séquence il suffit de la sélectionner et d’appuyer sur alt.
+(photo)</p>
+
+<p>Pour supprimer une séquence qui se trouve entre deux autres séquences et raccorder les deux autres séquences, il suffit de faire un clique droit et de faire supprimer et raccorder.
+(photo)</p>
+
+<p>Pour afficher en plus grand la ligne sur laquelle vous êtes, il suffit de double cliquer. Cela est surtout utile pour les audios.
+(photo)</p>
+
+<h3 id="iii-travailler-avec-des-images">III. Travailler avec des images</h3>
+
+<h4 id="1--superposer-des-calques-à-une-vidéo">1)- Superposer des calques à une vidéo</h4>
+
+<p>Pour superposer des calques (images) sur une séquence dans la partie montage, il suffit juste de faire glisser des calques et de les placer au-dessus de la vidéo dans la partie montage. Ainsi le calque s’affiche sur la vidéo.</p>
+
+<p>(photo ?)</p>
+
+<p>Pour aller plus loin, il suffit de sélectionner un calque dans le panneau montage et d’aller dans le panneau source et cliquer sur option d’effet. Il est alors possible de modifier plusieurs effets comme la trajectoire ou l’opacité.</p>
+
+<h4 id="2--positionner-une-image-sur-lécran">2)- Positionner une image sur l’écran</h4>
+
+<p>Il faut aller sur le panneau programme lorsqu’il y a l’image. Il suffit alors de dézoomer (10 %) et de double cliquer sur l’image. Celle-ci sera sélectionnée et il est alors possible de modifier sa taille et son positionnement sur l’écran.</p>
+
+<h4 id="iv-ajouter-des-effets">IV. Ajouter des effets</h4>
+
+<p>Il est possible d’ajouter de nombreux effets à vos montage comme par exemple des transitions, des effets audios, des changement de couleurs, …</p>
+
+<p>Pour cela il suffit d’aller dans le panneau explorateur de média et ensuite de sélectionner Effet. Vous sélectionnez alors l’effet que vous voulez appliquer et vous le déplacez sur la séquence que vous voulez modifier dans le panneau montage.</p>
+
+<p>Ensuite, il faut aller dans le panneau source et cliquer sur option d’effet et il y aura tous les détails qui concernent cet effet là, il suffit alors de modifier comme vous le désirez.</p>
+
+<p>Liens :</p>
+
+<ul>
+  <li>www.youtube.com/watch?v=rIHkdGDb3_E</li>
+  <li>helpx.adobe.com/fr/premiere-pro/how-to/work-explore-panels.html</li>
+  <li>helpx.adobe.com/fr/premiere-pro/how-to/import-with-media-browser.html</li>
+  <li>www.youtube.com/watch?v=Co8Pe493Buk&amp;t=181s</li>
+</ul>
+:ET
